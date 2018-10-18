@@ -1,0 +1,14 @@
+{
+  "name": "az-access-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bats tests.bats"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bats": "^1.1.0"
+  }
+}
